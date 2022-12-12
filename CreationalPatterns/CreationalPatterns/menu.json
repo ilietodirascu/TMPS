@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 1,
+    "Name": "Pizza",
+    "Components": [
+      {
+        "Name": "Dough",
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "Name": "Tomato Sauce",
+        "CountryOfOrigin": "Italy"
+      },
+      {
+        "Name": "Chorizo",
+        "CountryOfOrigin": "Spain"
+      },
+      {
+        "Name": "Cheese",
+        "CountryOfOrigin": "Italy"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Fruit Salad",
+    "Components": [
+      {
+        "Name": "Pineapple",
+        "CountryOfOrigin": "Spain"
+      },
+      {
+        "Name": "Apple",
+        "CountryOfOrigin": "Italy"
+      },
+      {
+        "Name": "Whipped Cream",
+        "CountryOfOrigin": "Canada"
+      },
+      {
+        "Name": "Banana",
+        "CountryOfOrigin": "Spain"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Zeama",
+    "Components": [
+      {
+        "Name": "Chicken",
+        "CountryOfOrigin": "Italy"
+      },
+      {
+        "Name": "Potato",
+        "CountryOfOrigin": "Spain"
+      },
+      {
+        "Name": "Parsley",
+        "CountryOfOrigin": "Italy"
+      },
+      {
+        "Name": "Broth",
+        "CountryOfOrigin": "Canada"
+      }
+    ]
+  }
+]
